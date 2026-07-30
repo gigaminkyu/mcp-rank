@@ -1,0 +1,38 @@
+name: 매일 갱신
+
+# 06:00 KST. 스냅샷은 하루 한 번만 쌓이고 안 돌린 날은 영구히 빈칸이라,
+# 실패하면 조용히 넘어가지 말고 워크플로를 빨갛게 남긴다.
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 수집
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python collect.py
+
+      - name: 사이트 생성
+        run: python build.py
+
+      - name: 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet && echo "변동 없음" && exit 0
+          git commit -m "갱신 $(date -u +%Y-%m-%d)"
+          git push
