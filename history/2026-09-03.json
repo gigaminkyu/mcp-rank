@@ -3,12 +3,12 @@
  "servers": {
   "chrisryugj/korean-law-mcp": {
    "rank": 1,
-   "stars": 2549,
+   "stars": 2548,
    "score": 94.1
   },
   "chrisryugj/kordoc": {
    "rank": 2,
-   "stars": 1787,
+   "stars": 1789,
    "score": 92.5
   },
   "JungHoonGhae/tossinvest-cli": {
@@ -343,8 +343,8 @@
   },
   "insung8150/AgentWebSearch-MCP": {
    "rank": 69,
-   "stars": 17,
-   "score": 42.6
+   "stars": 18,
+   "score": 42.8
   },
   "uju777/coupang-mcp": {
    "rank": 70,
@@ -396,70 +396,70 @@
    "stars": 73,
    "score": 37.7
   },
-  "java-jaydev/kiwoom-mcp": {
-   "rank": 80,
-   "stars": 3,
-   "score": 37.0
-  },
   "carasjung/kr-movie-tv-mcp": {
-   "rank": 81,
+   "rank": 80,
    "stars": 0,
    "score": 37.0
   },
   "seo-jinseok/korean-law-mcp": {
-   "rank": 82,
+   "rank": 81,
    "stars": 5,
    "score": 36.8
   },
   "openpharma-org/asia-filings-mcp-server": {
-   "rank": 83,
+   "rank": 82,
    "stars": 3,
    "score": 36.0
   },
   "pchuri/korean-capital-gains-tax-mcp": {
-   "rank": 84,
+   "rank": 83,
    "stars": 2,
    "score": 35.8
   },
   "psa0426/sw-settlement-mcp": {
-   "rank": 85,
+   "rank": 84,
    "stars": 2,
    "score": 35.8
   },
   "sharebook-kr/pykrx-mcp": {
-   "rank": 86,
+   "rank": 85,
    "stars": 3,
    "score": 35.0
   },
   "jayjodev/vivory-mcp": {
-   "rank": 87,
+   "rank": 86,
    "stars": 0,
    "score": 34.0
   },
   "jeong-sik/kakao-api-mcp-server": {
-   "rank": 88,
+   "rank": 87,
    "stars": 17,
    "score": 31.6
   },
   "gum798/A2A-MCP-RealEstate": {
-   "rank": 89,
+   "rank": 88,
    "stars": 4,
    "score": 31.0
   },
   "alphago2580/naramarketmcp": {
-   "rank": 90,
+   "rank": 89,
    "stars": 4,
    "score": 31.0
   },
   "DrMoony/koregx": {
-   "rank": 91,
+   "rank": 90,
    "stars": 0,
    "score": 31.0
   },
   "worker-ants/korea-weather-mcp": {
-   "rank": 92,
+   "rank": 91,
    "stars": 0,
    "score": 31.0
+  },
+  "java-jaydev/kiwoom-mcp": {
+   "rank": 92,
+   "stars": 3,
+   "score": 30.0
   },
   "clayop/korean-university-regulation-mcp": {
    "rank": 93,
