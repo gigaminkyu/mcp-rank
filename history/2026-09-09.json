@@ -1,0 +1,640 @@
+{
+ "date": "2026-09-09",
+ "servers": {
+  "chrisryugj/korean-law-mcp": {
+   "rank": 1,
+   "stars": 2567,
+   "score": 94.1
+  },
+  "chrisryugj/kordoc": {
+   "rank": 2,
+   "stars": 1807,
+   "score": 92.6
+  },
+  "hmmhmmhm/daiso-mcp": {
+   "rank": 3,
+   "stars": 327,
+   "score": 85.2
+  },
+  "jjlabsio/korea-stock-mcp": {
+   "rank": 4,
+   "stars": 175,
+   "score": 82.5
+  },
+  "airmang/python-hwpx-automation": {
+   "rank": 5,
+   "stars": 67,
+   "score": 78.3
+  },
+  "SeoNaRu/lexguard-mcp": {
+   "rank": 6,
+   "stars": 130,
+   "score": 76.2
+  },
+  "isnow890/naver-search-mcp": {
+   "rank": 7,
+   "stars": 84,
+   "score": 74.3
+  },
+  "epoko77-ai/korean-bill-debate-mcp": {
+   "rank": 8,
+   "stars": 26,
+   "score": 74.3
+  },
+  "MarcoYou/open-proxy-mcp": {
+   "rank": 9,
+   "stars": 26,
+   "score": 74.3
+  },
+  "kimlawtech/korean-jangbu-for": {
+   "rank": 10,
+   "stars": 83,
+   "score": 74.2
+  },
+  "yjcho9317/nworks": {
+   "rank": 11,
+   "stars": 24,
+   "score": 74.0
+  },
+  "chrisryugj/archhub-mcp": {
+   "rank": 12,
+   "stars": 65,
+   "score": 73.2
+  },
+  "scvcoder/korean-law-alio-mcp": {
+   "rank": 13,
+   "stars": 20,
+   "score": 73.2
+  },
+  "ai-screams/HwpForge": {
+   "rank": 14,
+   "stars": 18,
+   "score": 72.8
+  },
+  "SonAIengine/ku-portal-mcp": {
+   "rank": 15,
+   "stars": 13,
+   "score": 71.5
+  },
+  "chrisryugj/schoolinfo-mcp": {
+   "rank": 16,
+   "stars": 42,
+   "score": 71.3
+  },
+  "smilemin07/korean-rnd-regs-mcp": {
+   "rank": 17,
+   "stars": 11,
+   "score": 70.8
+  },
+  "legalize-kr/cli-tools": {
+   "rank": 18,
+   "stars": 11,
+   "score": 70.8
+  },
+  "tae0y/real-estate-mcp": {
+   "rank": 19,
+   "stars": 376,
+   "score": 69.8
+  },
+  "treesoop/hwp-mcp": {
+   "rank": 20,
+   "stars": 86,
+   "score": 69.4
+  },
+  "emceeKim/korea-finance-mcp": {
+   "rank": 21,
+   "stars": 55,
+   "score": 67.5
+  },
+  "Dayoooun/korea-stats-mcp": {
+   "rank": 22,
+   "stars": 16,
+   "score": 67.3
+  },
+  "amnotyoung/koica-reg-mcp": {
+   "rank": 23,
+   "stars": 14,
+   "score": 66.8
+  },
+  "taehyeonglim/korean-elementary-learning-map-mcp": {
+   "rank": 24,
+   "stars": 13,
+   "score": 66.5
+  },
+  "chrisryugj/korean-patent-mcp": {
+   "rank": 25,
+   "stars": 53,
+   "score": 66.3
+  },
+  "taxwoong/nts-tax-mcp": {
+   "rank": 26,
+   "stars": 3,
+   "score": 66.0
+  },
+  "PlateerLab/synaptic-memory": {
+   "rank": 27,
+   "stars": 33,
+   "score": 65.3
+  },
+  "chrisryugj/korean-dart-mcp": {
+   "rank": 28,
+   "stars": 98,
+   "score": 65.0
+  },
+  "dooray-go/dooray-mcp": {
+   "rank": 29,
+   "stars": 7,
+   "score": 64.0
+  },
+  "na77tech-creator/aikstockdata": {
+   "rank": 30,
+   "stars": 7,
+   "score": 64.0
+  },
+  "obundh/korea-public-data-catalog-mcp": {
+   "rank": 31,
+   "stars": 15,
+   "score": 62.0
+  },
+  "raphysicst-create/korean-secondary-learning-map-mcp": {
+   "rank": 32,
+   "stars": 15,
+   "score": 61.0
+  },
+  "aesthetic-legalism5470/korean-dart-mcp": {
+   "rank": 33,
+   "stars": 3,
+   "score": 61.0
+  },
+  "capitalparser/kreports-dart-mcp": {
+   "rank": 34,
+   "stars": 3,
+   "score": 61.0
+  },
+  "whdrnr2583-cmd/koreanpulse": {
+   "rank": 35,
+   "stars": 3,
+   "score": 61.0
+  },
+  "hjsh200219/korea-public-data-mcp": {
+   "rank": 36,
+   "stars": 10,
+   "score": 60.4
+  },
+  "jaykim429/korea-statistic-MCP-cginside": {
+   "rank": 37,
+   "stars": 2,
+   "score": 59.8
+  },
+  "sonmeggy/korean-engineering-mcp": {
+   "rank": 38,
+   "stars": 2,
+   "score": 59.8
+  },
+  "MosslandOpenDevs/alpha": {
+   "rank": 39,
+   "stars": 2,
+   "score": 59.8
+  },
+  "bootpay/bootpay-mcp": {
+   "rank": 40,
+   "stars": 2,
+   "score": 59.8
+  },
+  "rubatoyd/KCI_openAPI": {
+   "rank": 41,
+   "stars": 2,
+   "score": 58.8
+  },
+  "chrisryugj/ollama-mcp-host": {
+   "rank": 42,
+   "stars": 22,
+   "score": 58.6
+  },
+  "ratelworks/agent-quality-oss": {
+   "rank": 43,
+   "stars": 5,
+   "score": 57.8
+  },
+  "hollobit/assembly-api-mcp": {
+   "rank": 44,
+   "stars": 89,
+   "score": 56.5
+  },
+  "Koomook/data-go-mcp-servers": {
+   "rank": 45,
+   "stars": 303,
+   "score": 54.8
+  },
+  "daehyub71/onbid-mcp": {
+   "rank": 46,
+   "stars": 2,
+   "score": 54.8
+  },
+  "oksure/bible-ko-mcp": {
+   "rank": 47,
+   "stars": 2,
+   "score": 54.8
+  },
+  "farmbit-mdk/korea-market-data-mcp": {
+   "rank": 48,
+   "stars": 2,
+   "score": 54.8
+  },
+  "sodam-ai/NotebookLM-CLI_One-Click_Kit": {
+   "rank": 49,
+   "stars": 2,
+   "score": 54.8
+  },
+  "civilian7/korean-people-persona": {
+   "rank": 50,
+   "stars": 24,
+   "score": 54.0
+  },
+  "migusdn/KIS_MCP_Server": {
+   "rank": 51,
+   "stars": 29,
+   "score": 53.8
+  },
+  "Mrbaeksang/korea-stock-analyzer-mcp": {
+   "rank": 52,
+   "stars": 23,
+   "score": 52.8
+  },
+  "sodam-ai/Langent-MCP_One-Click_Kit": {
+   "rank": 53,
+   "stars": 4,
+   "score": 52.0
+  },
+  "youngsooco/k-mail-mcp": {
+   "rank": 54,
+   "stars": 6,
+   "score": 50.5
+  },
+  "PyungkangHong094/mcp-all-korea": {
+   "rank": 55,
+   "stars": 2,
+   "score": 49.8
+  },
+  "scvcoder/korean-privacy-law-mcp": {
+   "rank": 56,
+   "stars": 4,
+   "score": 49.0
+  },
+  "isnow890/data4library-mcp": {
+   "rank": 57,
+   "stars": 0,
+   "score": 49.0
+  },
+  "UrbanWatcherKr/korean-land-mcp": {
+   "rank": 58,
+   "stars": 18,
+   "score": 48.8
+  },
+  "SolarLLM/human-proofreader-mcp": {
+   "rank": 59,
+   "stars": 2,
+   "score": 48.8
+  },
+  "raphysicst-create/korean-vocational-learning-map-mcp": {
+   "rank": 60,
+   "stars": 2,
+   "score": 47.8
+  },
+  "ChangooLee/mcp-kr-legislation": {
+   "rank": 61,
+   "stars": 9,
+   "score": 47.0
+  },
+  "redoxnet/mcp-lsopenapi": {
+   "rank": 62,
+   "stars": 2,
+   "score": 46.8
+  },
+  "sinmb79/GongMun-Doctor-MCP": {
+   "rank": 63,
+   "stars": 23,
+   "score": 45.8
+  },
+  "leokim90/gov-data-mcp": {
+   "rank": 64,
+   "stars": 3,
+   "score": 45.0
+  },
+  "rabqatab/LexLink-ko-mcp": {
+   "rank": 65,
+   "stars": 2,
+   "score": 44.8
+  },
+  "OneVth/danbooru-tag-rag-mcp": {
+   "rank": 66,
+   "stars": 2,
+   "score": 43.8
+  },
+  "jeonghwanko/coffee-price-mcp": {
+   "rank": 67,
+   "stars": 2,
+   "score": 43.8
+  },
+  "NSLC7779/dk-korea-health-mcp": {
+   "rank": 68,
+   "stars": 2,
+   "score": 43.8
+  },
+  "socialkim/korea-onegov-mcp": {
+   "rank": 69,
+   "stars": 2,
+   "score": 43.8
+  },
+  "insung8150/AgentWebSearch-MCP": {
+   "rank": 70,
+   "stars": 20,
+   "score": 43.2
+  },
+  "uju777/coupang-mcp": {
+   "rank": 71,
+   "stars": 17,
+   "score": 42.6
+  },
+  "edward-kim-dev/kr-pc-deals-mcp": {
+   "rank": 72,
+   "stars": 11,
+   "score": 41.8
+  },
+  "capitalparser/public-data-opportunity-mcp": {
+   "rank": 73,
+   "stars": 2,
+   "score": 40.8
+  },
+  "HyunjunJeon/FastCampus_mcp_a2a_stock_project": {
+   "rank": 74,
+   "stars": 10,
+   "score": 40.4
+  },
+  "harimkang/mcp-korea-tourism-api": {
+   "rank": 75,
+   "stars": 9,
+   "score": 40.0
+  },
+  "dahlia/ko-stdict-mcp": {
+   "rank": 76,
+   "stars": 28,
+   "score": 39.6
+  },
+  "aibridge-leo/tradingview-mcp-aibridge": {
+   "rank": 77,
+   "stars": 4,
+   "score": 38.0
+  },
+  "SeoNaRu/korean-law-mcp": {
+   "rank": 78,
+   "stars": 74,
+   "score": 37.8
+  },
+  "kokogo100/ragalgo-mcp-server": {
+   "rank": 79,
+   "stars": 5,
+   "score": 37.8
+  },
+  "carasjung/kr-movie-tv-mcp": {
+   "rank": 80,
+   "stars": 0,
+   "score": 37.0
+  },
+  "seo-jinseok/korean-law-mcp": {
+   "rank": 81,
+   "stars": 5,
+   "score": 36.8
+  },
+  "openpharma-org/asia-filings-mcp-server": {
+   "rank": 82,
+   "stars": 3,
+   "score": 36.0
+  },
+  "pchuri/korean-capital-gains-tax-mcp": {
+   "rank": 83,
+   "stars": 2,
+   "score": 35.8
+  },
+  "psa0426/sw-settlement-mcp": {
+   "rank": 84,
+   "stars": 2,
+   "score": 35.8
+  },
+  "JeongSeongMok/tossinvest-openapi-mcp": {
+   "rank": 85,
+   "stars": 2,
+   "score": 35.8
+  },
+  "sharebook-kr/pykrx-mcp": {
+   "rank": 86,
+   "stars": 3,
+   "score": 35.0
+  },
+  "jeong-sik/kakao-api-mcp-server": {
+   "rank": 87,
+   "stars": 17,
+   "score": 31.6
+  },
+  "alphago2580/naramarketmcp": {
+   "rank": 88,
+   "stars": 4,
+   "score": 31.0
+  },
+  "DrMoony/koregx": {
+   "rank": 89,
+   "stars": 0,
+   "score": 31.0
+  },
+  "worker-ants/korea-weather-mcp": {
+   "rank": 90,
+   "stars": 0,
+   "score": 31.0
+  },
+  "java-jaydev/kiwoom-mcp": {
+   "rank": 91,
+   "stars": 3,
+   "score": 30.0
+  },
+  "clayop/korean-university-regulation-mcp": {
+   "rank": 92,
+   "stars": 2,
+   "score": 29.8
+  },
+  "zeikar/kimcp": {
+   "rank": 93,
+   "stars": 10,
+   "score": 29.4
+  },
+  "CaChiJ/kakao-navigation-mcp-server": {
+   "rank": 94,
+   "stars": 11,
+   "score": 28.8
+  },
+  "aeriis-kr/opendata-mcp": {
+   "rank": 95,
+   "stars": 11,
+   "score": 28.8
+  },
+  "flor3z-github/navermap-mcp-server": {
+   "rank": 96,
+   "stars": 2,
+   "score": 28.8
+  },
+  "Tech-curator/korean-patent-mcp": {
+   "rank": 97,
+   "stars": 2,
+   "score": 28.8
+  },
+  "finalchild/law-mcp": {
+   "rank": 98,
+   "stars": 31,
+   "score": 28.1
+  },
+  "winterjung/mcp-korean-spell": {
+   "rank": 99,
+   "stars": 24,
+   "score": 27.0
+  },
+  "koreainvestment/koreainvestment-mcp": {
+   "rank": 100,
+   "stars": 19,
+   "score": 27.0
+  },
+  "keonho-kim/OpenDart-mcp": {
+   "rank": 101,
+   "stars": 5,
+   "score": 26.8
+  },
+  "gum798/A2A-MCP-RealEstate": {
+   "rank": 102,
+   "stars": 4,
+   "score": 26.0
+  },
+  "seung23/lawtutor-mcp": {
+   "rank": 103,
+   "stars": 0,
+   "score": 26.0
+  },
+  "jayjodev/vivory-mcp": {
+   "rank": 104,
+   "stars": 0,
+   "score": 26.0
+  },
+  "cgoinglove/mcp-server-kakao-map": {
+   "rank": 105,
+   "stars": 16,
+   "score": 25.3
+  },
+  "dartpointai/dartpoint-mcp": {
+   "rank": 106,
+   "stars": 3,
+   "score": 25.0
+  },
+  "agent504330-ux/mcp-korean-stock": {
+   "rank": 107,
+   "stars": 2,
+   "score": 24.8
+  },
+  "ohhan777/korea_weather": {
+   "rank": 108,
+   "stars": 12,
+   "score": 24.1
+  },
+  "la1av1a/hospital-fee-mcp": {
+   "rank": 109,
+   "stars": 3,
+   "score": 24.0
+  },
+  "snaiws/DART-mcp-server": {
+   "rank": 110,
+   "stars": 11,
+   "score": 23.8
+  },
+  "hyeri0903/naver-works-mcp": {
+   "rank": 111,
+   "stars": 1,
+   "score": 23.0
+  },
+  "Alfex4936/Hangul-MCP": {
+   "rank": 112,
+   "stars": 2,
+   "score": 22.8
+  },
+  "slicequeue/k-mfds-fooddb-mcp-server": {
+   "rank": 113,
+   "stars": 6,
+   "score": 22.5
+  },
+  "jikime/py-mcp-naver-search": {
+   "rank": 114,
+   "stars": 4,
+   "score": 21.0
+  },
+  "DrFirstLee/korea-stock-mcp": {
+   "rank": 115,
+   "stars": 3,
+   "score": 18.0
+  },
+  "yunkee-lee/mcp-naver-maps": {
+   "rank": 116,
+   "stars": 2,
+   "score": 17.8
+  },
+  "mskim8717/dooray-mcp": {
+   "rank": 117,
+   "stars": 2,
+   "score": 17.8
+  },
+  "yeonupark/mcp-naver-map": {
+   "rank": 118,
+   "stars": 7,
+   "score": 17.0
+  },
+  "slicequeue/k-targo-subway-mcp-server": {
+   "rank": 119,
+   "stars": 1,
+   "score": 17.0
+  },
+  "pinnaclesoft-ko/be-node-seoul-data-mcp": {
+   "rank": 120,
+   "stars": 1,
+   "score": 16.0
+  },
+  "tenacl/koreandict-mcp-server": {
+   "rank": 121,
+   "stars": 4,
+   "score": 15.0
+  },
+  "woongaro/KMA-WEATHER-MCP": {
+   "rank": 122,
+   "stars": 0,
+   "score": 13.0
+  },
+  "kwanok/dooray-mcp": {
+   "rank": 123,
+   "stars": 0,
+   "score": 13.0
+  },
+  "jikime/mcp-weather": {
+   "rank": 124,
+   "stars": 0,
+   "score": 8.0
+  },
+  "pjookim/mcp-visit-korea": {
+   "rank": 125,
+   "stars": 2,
+   "score": 7.8
+  },
+  "Kinuk97/mcp-get-weather": {
+   "rank": 126,
+   "stars": 0,
+   "score": 3.0
+  },
+  "dbsxortime/mcp-weather-server": {
+   "rank": 127,
+   "stars": 0,
+   "score": 3.0
+  }
+ }
+}
