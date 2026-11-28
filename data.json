@@ -1,21 +1,21 @@
 {
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "source": {
   "repo": "darjeeling/awesome-mcp-korea",
   "url": "https://github.com/darjeeling/awesome-mcp-korea"
  },
- "count": 157,
+ "count": 156,
  "listed": 53,
- "found": 104,
+ "found": 103,
  "dropped": [
   "workbookbulb863/korean-law-alio-mcp",
   "jaykim429/korea-statistic-MCP-cginside",
   "woongaro/KMA-WEATHER-MCP"
  ],
  "history": {
-  "prev": "2026-11-26",
-  "baseline": "2026-11-20",
-  "days": 82
+  "prev": "2026-11-27",
+  "baseline": "2026-11-21",
+  "days": 83
  },
  "servers": [
   {
@@ -25,8 +25,8 @@
    "source": "목록",
    "name": "kordoc",
    "owner": "chrisryugj",
-   "stars": 3150,
-   "forks": 548,
+   "stars": 3158,
+   "forks": 550,
    "issues": 2,
    "language": "TypeScript",
    "license": "MIT",
@@ -54,10 +54,10 @@
    ],
    "gh_desc": "📄 한국 공문서를 AI가 읽고 쓰게 합니다. HWP·HWPX·PDF·오피스·스캔 이미지를 Markdown으로, Markdown을 HWPX 공문서로 바꾸고 양식 채우기·신구대조·서식 보존 편집까지. 라이브러리·CLI·MCP 서버 | Korean documents for AI: HWP, HWPX, PDF, Office and scans to Markdown, and Markdown back to HWPX. Library, CLI and MCP server.",
    "homepage": "https://pubax.org/kordoc/",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-28",
    "created_at": "2026-03-28",
    "days_idle": 0,
-   "readme_len": 10904,
+   "readme_len": 10843,
    "releases": 1,
    "install": "npx kordoc",
    "score": {
@@ -70,7 +70,7 @@
    "rank": 1,
    "rank_delta": 0,
    "is_new": false,
-   "star_delta": 95,
+   "star_delta": 91,
    "star_delta_days": 7
   },
   {
@@ -80,7 +80,7 @@
    "source": "목록",
    "name": "korean-law-mcp",
    "owner": "chrisryugj",
-   "stars": 2938,
+   "stars": 2941,
    "forks": 601,
    "issues": 1,
    "language": "TypeScript",
@@ -109,10 +109,10 @@
    ],
    "gh_desc": "⚖️ 법령·판례를 AI가 법제처 원문에서 찾고 인용까지 검증하는 MCP 서버. 법제처 API 42개를 도구 10개로: 법령·조문·별표, 판례류 23개 도메인, 조례 정비 레이더, 신구조문대비표 | MCP server for Korean law: statutes, precedents and ordinances from the official source, with citation checks for AI answers.",
    "homepage": "https://pubax.org/law/",
-   "pushed_at": "2026-11-21",
+   "pushed_at": "2026-11-27",
    "created_at": "2025-12-19",
-   "days_idle": 5,
-   "readme_len": 19056,
+   "days_idle": 0,
+   "readme_len": 19349,
    "releases": 1,
    "install": "npx korean-law-mcp",
    "score": {
@@ -125,7 +125,7 @@
    "rank": 2,
    "rank_delta": 0,
    "is_new": false,
-   "star_delta": 37,
+   "star_delta": 36,
    "star_delta_days": 7
   },
   {
@@ -135,9 +135,9 @@
    "source": "발굴",
    "name": "stock-screener",
    "owner": "xang1234",
-   "stars": 426,
+   "stars": 427,
    "forks": 138,
-   "issues": 19,
+   "issues": 21,
    "language": "Python",
    "license": "Apache-2.0",
    "topics": [
@@ -155,9 +155,9 @@
    ],
    "gh_desc": "CANSLIM & Minervini stock screener for 12 markets (US, China, HK, Japan, India, Korea, Taiwan & more). 80+ filters, StockBee-style breadth, group rankings, theme discovery and an AI research chatbot. Free daily static site + MCP server.",
    "homepage": "https://xang1234.github.io/stock-screener/",
-   "pushed_at": "2026-11-24",
+   "pushed_at": "2026-11-28",
    "created_at": "2026-01-12",
-   "days_idle": 2,
+   "days_idle": 0,
    "readme_len": 11500,
    "releases": 1,
    "install": "",
@@ -171,7 +171,7 @@
    "rank": 3,
    "rank_delta": 0,
    "is_new": false,
-   "star_delta": 2,
+   "star_delta": 3,
    "star_delta_days": 7
   },
   {
@@ -204,7 +204,7 @@
    ],
    "gh_desc": "다이소·편의점 재고와 생활 정보를 AI에서 바로 조회하세요. 설치·API 키 없는 공개 MCP, 웹 링크 조회, CLI·Skill을 지원합니다.",
    "homepage": "https://daiso-mcp.aka.page",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-27",
    "created_at": "2026-02-28",
    "days_idle": 0,
    "readme_len": 10688,
@@ -220,7 +220,7 @@
    "rank": 4,
    "rank_delta": 0,
    "is_new": false,
-   "star_delta": 2,
+   "star_delta": 3,
    "star_delta_days": 7
   },
   {
@@ -287,7 +287,7 @@
    "homepage": "https://github.com/treesoop/hwp-mcp",
    "pushed_at": "2026-11-19",
    "created_at": "2026-03-31",
-   "days_idle": 7,
+   "days_idle": 8,
    "readme_len": 20495,
    "releases": 1,
    "install": "npx hwp-mcp",
@@ -340,10 +340,10 @@
    ],
    "gh_desc": "Korean tax calculator MCP server: corporate, income and VAT tax, non-resident withholding, foreign worker flat tax, expat cost recharge, foreign subsidiary dividends, branch and exit tax, transfer pricing. 139 tools with statute citations. | 한국 세금 계산·세무조정 MCP",
    "homepage": "https://upstageai.github.io/korean-tax-mcp/",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-27",
    "created_at": "2026-10-07",
    "days_idle": 0,
-   "readme_len": 34554,
+   "readme_len": 34790,
    "releases": 1,
    "install": "uvx korean-tax-calc-mcp",
    "score": {
@@ -356,7 +356,7 @@
    "rank": 7,
    "rank_delta": 0,
    "is_new": false,
-   "star_delta": 4,
+   "star_delta": 2,
    "star_delta_days": 7
   },
   {
@@ -366,9 +366,9 @@
    "source": "발굴",
    "name": "python-hwpx-automation",
    "owner": "airmang",
-   "stars": 69,
+   "stars": 70,
    "forks": 21,
-   "issues": 9,
+   "issues": 8,
    "language": "Python",
    "license": "Apache-2.0",
    "topics": [
@@ -385,7 +385,7 @@
    ],
    "gh_desc": "MCP server for AI agents to read, edit, inspect, and validate local HWPX documents.",
    "homepage": "https://pypi.org/project/hwpx-mcp-server/",
-   "pushed_at": "2026-11-27",
+   "pushed_at": "2026-11-28",
    "created_at": "2025-09-19",
    "days_idle": 0,
    "readme_len": 12965,
@@ -401,7 +401,7 @@
    "rank": 8,
    "rank_delta": 0,
    "is_new": false,
-   "star_delta": 0,
+   "star_delta": 1,
    "star_delta_days": 7
   },
   {
@@ -431,7 +431,7 @@
    ],
    "gh_desc": "증권사 애널리스트가 만든 한국 상장사 공시 분석 MCP 서버 — 재무제표·예상실적·주가·밸류에이션·지배구조·주주총회 의결권 분석을 AI에서 바로 무설치 사용.",
    "homepage": "",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-27",
    "created_at": "2026-03-19",
    "days_idle": 0,
    "readme_len": 10790,
@@ -457,7 +457,7 @@
    "source": "발굴",
    "name": "nhatnguyet-lunar-ziwei-bazi-numerology",
    "owner": "Nhat-Nguyet",
-   "stars": 33,
+   "stars": 34,
    "forks": 24,
    "issues": 15,
    "language": "TypeScript",
@@ -488,22 +488,22 @@
    "homepage": "https://nhatnguyet.org/en/ma-nguon-mo",
    "pushed_at": "2026-11-26",
    "created_at": "2026-11-19",
-   "days_idle": 0,
+   "days_idle": 1,
    "readme_len": 45849,
    "releases": 1,
    "install": "pip nhatnguyet",
    "score": {
-    "total": 75.3,
-    "popularity": 15.3,
+    "total": 75.4,
+    "popularity": 15.4,
     "upkeep": 30.0,
     "docs": 20.0,
     "trust": 10.0
    },
    "rank": 10,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
-   "star_delta": null,
-   "star_delta_days": null
+   "star_delta": 25,
+   "star_delta_days": 7
   },
   {
    "repo": "yjcho9317/nworks",
@@ -538,7 +538,7 @@
    "homepage": "",
    "pushed_at": "2026-11-15",
    "created_at": "2026-03-13",
-   "days_idle": 11,
+   "days_idle": 12,
    "readme_len": 15283,
    "releases": 1,
    "install": "npx nworks",
@@ -550,7 +550,7 @@
     "trust": 10.0
    },
    "rank": 11,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": -1,
    "star_delta_days": 7
@@ -591,7 +591,7 @@
    "homepage": "https://upstageai.github.io/korean-tax-mcp/",
    "pushed_at": "2026-11-17",
    "created_at": "2026-10-08",
-   "days_idle": 9,
+   "days_idle": 10,
    "readme_len": 16873,
    "releases": 1,
    "install": "uvx korean-report-hwpx",
@@ -603,7 +603,7 @@
     "trust": 10.0
    },
    "rank": 12,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -617,7 +617,7 @@
    "owner": "ai-screams",
    "stars": 20,
    "forks": 5,
-   "issues": 12,
+   "issues": 13,
    "language": "Rust",
    "license": "Apache-2.0",
    "topics": [
@@ -635,9 +635,9 @@
    ],
    "gh_desc": "Rust library for programmatic control of Korean HWPX documents — Markdown→HWPX conversion, JSON   round-trip editing, MCP server for AI agents 🔥",
    "homepage": "https://ai-scream.ai/HwpForge/",
-   "pushed_at": "2026-11-24",
+   "pushed_at": "2026-11-28",
    "created_at": "2026-02-06",
-   "days_idle": 2,
+   "days_idle": 0,
    "readme_len": 27126,
    "releases": 1,
    "install": "pip hwpforge",
@@ -649,7 +649,7 @@
     "trust": 10.0
    },
    "rank": 13,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -691,7 +691,7 @@
    "homepage": "https://pypi.org/project/korean-rnd-regs-mcp/",
    "pushed_at": "2026-11-12",
    "created_at": "2026-05-24",
-   "days_idle": 14,
+   "days_idle": 15,
    "readme_len": 44729,
    "releases": 1,
    "install": "",
@@ -703,7 +703,7 @@
     "trust": 10.0
    },
    "rank": 14,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -744,10 +744,10 @@
    ],
    "gh_desc": "Korean tax law MCP server for AI agents: NTS rulings, court and tribunal cases, statutes as in force on any date, 96 tax treaties and treaty withholding rates, residency and PE tests, transfer pricing. For Korean companies, foreign companies, expats and Korean subsidiaries. | 한국 세법 근거 MCP",
    "homepage": "https://upstageai.github.io/korean-tax-mcp/",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-27",
    "created_at": "2026-10-01",
    "days_idle": 0,
-   "readme_len": 23591,
+   "readme_len": 23609,
    "releases": 1,
    "install": "uvx korean-tax-mcp",
    "score": {
@@ -758,9 +758,9 @@
     "trust": 10.0
    },
    "rank": 15,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
-   "star_delta": 3,
+   "star_delta": 2,
    "star_delta_days": 7
   },
   {
@@ -780,7 +780,7 @@
    "homepage": "",
    "pushed_at": "2026-11-09",
    "created_at": "2026-09-30",
-   "days_idle": 17,
+   "days_idle": 18,
    "readme_len": 26616,
    "releases": 1,
    "install": "",
@@ -792,7 +792,7 @@
     "trust": 10.0
    },
    "rank": 16,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -814,7 +814,7 @@
    "homepage": "",
    "pushed_at": "2026-11-19",
    "created_at": "2026-10-20",
-   "days_idle": 7,
+   "days_idle": 8,
    "readme_len": 25029,
    "releases": 1,
    "install": "",
@@ -826,7 +826,7 @@
     "trust": 10.0
    },
    "rank": 17,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -856,7 +856,7 @@
    "homepage": "https://maskingtape-lilac.vercel.app",
    "pushed_at": "2026-11-01",
    "created_at": "2026-07-17",
-   "days_idle": 25,
+   "days_idle": 26,
    "readme_len": 23143,
    "releases": 1,
    "install": "pip maskingtape",
@@ -868,7 +868,7 @@
     "trust": 10.0
    },
    "rank": 18,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -911,7 +911,7 @@
    "homepage": "https://github.com/MarcoYou/open-esg-korea/releases/latest",
    "pushed_at": "2026-11-02",
    "created_at": "2026-04-11",
-   "days_idle": 25,
+   "days_idle": 26,
    "readme_len": 16880,
    "releases": 1,
    "install": "",
@@ -923,7 +923,7 @@
     "trust": 10.0
    },
    "rank": 19,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -966,7 +966,7 @@
    "homepage": "https://datasink.ing",
    "pushed_at": "2026-11-24",
    "created_at": "2026-08-26",
-   "days_idle": 3,
+   "days_idle": 4,
    "readme_len": 11480,
    "releases": 0,
    "install": "npx datasinking-mcp",
@@ -978,7 +978,7 @@
     "trust": 5.0
    },
    "rank": 20,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1009,7 +1009,7 @@
    "homepage": "",
    "pushed_at": "2026-11-26",
    "created_at": "2025-04-08",
-   "days_idle": 0,
+   "days_idle": 1,
    "readme_len": 3491,
    "releases": 0,
    "install": "",
@@ -1021,7 +1021,7 @@
     "trust": 5.0
    },
    "rank": 21,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -1057,7 +1057,7 @@
    "homepage": "",
    "pushed_at": "2026-11-26",
    "created_at": "2026-07-07",
-   "days_idle": 0,
+   "days_idle": 1,
    "readme_len": 32340,
    "releases": 1,
    "install": "",
@@ -1069,7 +1069,7 @@
     "trust": 10.0
    },
    "rank": 22,
-   "rank_delta": 3,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -1091,7 +1091,7 @@
    "homepage": "https://www.npmjs.com/package/@kimdayoun/korea-stats-mcp",
    "pushed_at": "2026-11-05",
    "created_at": "2026-01-04",
-   "days_idle": 21,
+   "days_idle": 22,
    "readme_len": 16732,
    "releases": 0,
    "install": "npx @kimdayoun/korea-stats-mcp",
@@ -1103,7 +1103,7 @@
     "trust": 5.0
    },
    "rank": 23,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1142,7 +1142,7 @@
    "homepage": "https://zzombie04.github.io/hwpx_new/",
    "pushed_at": "2026-10-30",
    "created_at": "2026-09-29",
-   "days_idle": 27,
+   "days_idle": 28,
    "readme_len": 13995,
    "releases": 1,
    "install": "",
@@ -1154,7 +1154,7 @@
     "trust": 10.0
    },
    "rank": 24,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -1176,7 +1176,7 @@
    "homepage": "",
    "pushed_at": "2026-11-23",
    "created_at": "2026-06-17",
-   "days_idle": 3,
+   "days_idle": 4,
    "readme_len": 17457,
    "releases": 1,
    "install": "npx agent-quality-oss",
@@ -1188,7 +1188,7 @@
     "trust": 10.0
    },
    "rank": 25,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1208,9 +1208,9 @@
    "topics": [],
    "gh_desc": "ALIO 자동 동기화 기반 KOICA 현행 규정 149개·약 6,400개 조문을 8개 원격 MCP 도구로 — Claude Desktop 등에서 자연어 검색·본문/별표 조회·인용 검증·상호참조·규정 정비 점검",
    "homepage": "",
-   "pushed_at": "2026-11-24",
+   "pushed_at": "2026-11-27",
    "created_at": "2026-05-11",
-   "days_idle": 3,
+   "days_idle": 0,
    "readme_len": 18940,
    "releases": 0,
    "install": "",
@@ -1222,7 +1222,7 @@
     "trust": 5.0
    },
    "rank": 26,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1258,7 +1258,7 @@
    "homepage": "https://plus.kipris.or.kr",
    "pushed_at": "2026-11-17",
    "created_at": "2026-06-21",
-   "days_idle": 9,
+   "days_idle": 10,
    "readme_len": 6576,
    "releases": 0,
    "install": "",
@@ -1270,9 +1270,9 @@
     "trust": 5.0
    },
    "rank": 27,
-   "rank_delta": 2,
+   "rank_delta": 0,
    "is_new": false,
-   "star_delta": 2,
+   "star_delta": 1,
    "star_delta_days": 7
   },
   {
@@ -1310,7 +1310,7 @@
    "homepage": "https://www.npmjs.com/package/korean-dart-mcp",
    "pushed_at": "2026-10-26",
    "created_at": "2026-04-17",
-   "days_idle": 31,
+   "days_idle": 32,
    "readme_len": 20061,
    "releases": 0,
    "install": "npx korean-dart-mcp",
@@ -1322,7 +1322,7 @@
     "trust": 5.0
    },
    "rank": 28,
-   "rank_delta": -18,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1360,7 +1360,7 @@
    "homepage": "",
    "pushed_at": "2026-11-04",
    "created_at": "2026-09-22",
-   "days_idle": 22,
+   "days_idle": 23,
    "readme_len": 24823,
    "releases": 1,
    "install": "docker",
@@ -1372,7 +1372,7 @@
     "trust": 10.0
    },
    "rank": 29,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1402,7 +1402,7 @@
    "homepage": "",
    "pushed_at": "2026-11-25",
    "created_at": "2026-10-07",
-   "days_idle": 1,
+   "days_idle": 2,
    "readme_len": 26941,
    "releases": 1,
    "install": "npx kakaotalk-mcp-korea",
@@ -1414,7 +1414,7 @@
     "trust": 10.0
    },
    "rank": 30,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1469,7 +1469,7 @@
     "trust": 10.0
    },
    "rank": 31,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1511,7 +1511,7 @@
    "homepage": "https://pypi.org/project/tistory-mcp/",
    "pushed_at": "2026-11-10",
    "created_at": "2026-10-27",
-   "days_idle": 17,
+   "days_idle": 18,
    "readme_len": 17901,
    "releases": 1,
    "install": "npx tistory-mcp",
@@ -1523,7 +1523,7 @@
     "trust": 10.0
    },
    "rank": 32,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1557,7 +1557,7 @@
     "trust": 5.0
    },
    "rank": 33,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1591,7 +1591,7 @@
    "homepage": "https://speciai.kr/services",
    "pushed_at": "2026-08-29",
    "created_at": "2026-04-22",
-   "days_idle": 89,
+   "days_idle": 90,
    "readme_len": 9930,
    "releases": 0,
    "install": "",
@@ -1603,7 +1603,7 @@
     "trust": 5.0
    },
    "rank": 34,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1646,7 +1646,7 @@
    "homepage": "https://www.npmjs.com/package/korean-law-alio-mcp",
    "pushed_at": "2026-09-13",
    "created_at": "2026-04-26",
-   "days_idle": 74,
+   "days_idle": 75,
    "readme_len": 9764,
    "releases": 1,
    "install": "npx korean-law-alio-mcp",
@@ -1658,7 +1658,7 @@
     "trust": 10.0
    },
    "rank": 35,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -1689,7 +1689,7 @@
    "homepage": "",
    "pushed_at": "2026-10-17",
    "created_at": "2026-06-02",
-   "days_idle": 40,
+   "days_idle": 41,
    "readme_len": 16629,
    "releases": 0,
    "install": "",
@@ -1701,7 +1701,7 @@
     "trust": 5.0
    },
    "rank": 36,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -1731,7 +1731,7 @@
    "homepage": "https://school.gomdori.app",
    "pushed_at": "2026-10-26",
    "created_at": "2026-06-14",
-   "days_idle": 31,
+   "days_idle": 32,
    "readme_len": 13940,
    "releases": 0,
    "install": "",
@@ -1743,7 +1743,7 @@
     "trust": 5.0
    },
    "rank": 37,
-   "rank_delta": -22,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1774,7 +1774,7 @@
    "homepage": "https://lawful.crow-tit.com",
    "pushed_at": "2026-11-09",
    "created_at": "2026-08-07",
-   "days_idle": 17,
+   "days_idle": 18,
    "readme_len": 8145,
    "releases": 0,
    "install": "",
@@ -1814,7 +1814,7 @@
    "homepage": "",
    "pushed_at": "2026-07-18",
    "created_at": "2026-02-13",
-   "days_idle": 131,
+   "days_idle": 132,
    "readme_len": 4527,
    "releases": 1,
    "install": "",
@@ -1857,7 +1857,7 @@
    "homepage": "",
    "pushed_at": "2026-10-16",
    "created_at": "2026-04-18",
-   "days_idle": 41,
+   "days_idle": 42,
    "readme_len": 19404,
    "releases": 1,
    "install": "",
@@ -1891,7 +1891,7 @@
    "homepage": "",
    "pushed_at": "2026-11-26",
    "created_at": "2026-02-28",
-   "days_idle": 0,
+   "days_idle": 1,
    "readme_len": 17553,
    "releases": 0,
    "install": "",
@@ -1903,7 +1903,7 @@
     "trust": 0.0
    },
    "rank": 41,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -1942,7 +1942,7 @@
    "homepage": "https://pypi.org/project/ku-portal-mcp/",
    "pushed_at": "2026-10-03",
    "created_at": "2026-03-01",
-   "days_idle": 54,
+   "days_idle": 55,
    "readme_len": 14233,
    "releases": 1,
    "install": "uvx ku-portal-mcp",
@@ -1954,7 +1954,7 @@
     "trust": 10.0
    },
    "rank": 42,
-   "rank_delta": -1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -1974,7 +1974,7 @@
    "topics": [],
    "gh_desc": "KCI(Korea Citation Index) REST Open API + OAI-PMH 혼용 MCP 서버·CLI",
    "homepage": "",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-27",
    "created_at": "2026-06-22",
    "days_idle": 0,
    "readme_len": 7055,
@@ -2028,10 +2028,10 @@
    ],
    "gh_desc": "On 문서 — 한글(HWP·HWPX)·PDF·오피스 문서를 브라우저에서 열고 고치고, 공문서 꼴 한글을 만들고, 결재 전 점검까지. AI 채팅 MCP 연결 지원 · Korean HWP/HWPX viewer, editor & document checker",
    "homepage": "https://on-munseo.github.io/",
-   "pushed_at": "2026-11-26",
+   "pushed_at": "2026-11-28",
    "created_at": "2026-11-19",
    "days_idle": 0,
-   "readme_len": 25033,
+   "readme_len": 33259,
    "releases": 0,
    "install": "",
    "score": {
@@ -2073,7 +2073,7 @@
    "homepage": "",
    "pushed_at": "2026-11-20",
    "created_at": "2026-03-20",
-   "days_idle": 6,
+   "days_idle": 7,
    "readme_len": 6382,
    "releases": 0,
    "install": "npx kr-pc-deals-mcp",
@@ -2107,7 +2107,7 @@
    "homepage": "https://eocpa.kr/mydart",
    "pushed_at": "2026-11-09",
    "created_at": "2026-10-16",
-   "days_idle": 17,
+   "days_idle": 18,
    "readme_len": 14725,
    "releases": 0,
    "install": "",
@@ -2141,7 +2141,7 @@
    "homepage": "",
    "pushed_at": "2026-11-12",
    "created_at": "2026-03-06",
-   "days_idle": 14,
+   "days_idle": 15,
    "readme_len": 20228,
    "releases": 0,
    "install": "",
@@ -2186,7 +2186,7 @@
    "homepage": "https://alpha.moss.land",
    "pushed_at": "2026-11-15",
    "created_at": "2026-05-06",
-   "days_idle": 11,
+   "days_idle": 12,
    "readme_len": 13372,
    "releases": 0,
    "install": "",
@@ -2220,7 +2220,7 @@
    "homepage": "",
    "pushed_at": "2026-11-23",
    "created_at": "2026-08-28",
-   "days_idle": 3,
+   "days_idle": 4,
    "readme_len": 18700,
    "releases": 0,
    "install": "",
@@ -2254,7 +2254,7 @@
    "homepage": "",
    "pushed_at": "2026-11-15",
    "created_at": "2026-11-14",
-   "days_idle": 11,
+   "days_idle": 12,
    "readme_len": 8507,
    "releases": 0,
    "install": "",
@@ -2299,7 +2299,7 @@
    "homepage": "https://korea-finance-mcp-divine-hillside-8872.fly.dev/healthz",
    "pushed_at": "2026-07-04",
    "created_at": "2026-05-24",
-   "days_idle": 145,
+   "days_idle": 146,
    "readme_len": 9650,
    "releases": 1,
    "install": "",
@@ -2333,7 +2333,7 @@
    "homepage": "",
    "pushed_at": "2026-10-11",
    "created_at": "2026-06-29",
-   "days_idle": 46,
+   "days_idle": 47,
    "readme_len": 16664,
    "releases": 0,
    "install": "npx ollama-mcp-host",
@@ -2380,7 +2380,7 @@
    "homepage": "",
    "pushed_at": "2026-11-22",
    "created_at": "2026-10-08",
-   "days_idle": 4,
+   "days_idle": 5,
    "readme_len": 4405,
    "releases": 1,
    "install": "uvx budongsan-tax",
@@ -2414,7 +2414,7 @@
    "homepage": "",
    "pushed_at": "2026-08-11",
    "created_at": "2026-01-14",
-   "days_idle": 107,
+   "days_idle": 108,
    "readme_len": 11954,
    "releases": 0,
    "install": "docker",
@@ -2455,7 +2455,7 @@
    "homepage": "",
    "pushed_at": "2026-11-05",
    "created_at": "2026-11-04",
-   "days_idle": 21,
+   "days_idle": 22,
    "readme_len": 3561,
    "releases": 0,
    "install": "",
@@ -2510,7 +2510,7 @@
    "homepage": "https://pypi.org/project/synaptic-memory/",
    "pushed_at": "2026-07-03",
    "created_at": "2026-03-21",
-   "days_idle": 147,
+   "days_idle": 148,
    "readme_len": 22769,
    "releases": 1,
    "install": "pip synaptic-memory[docs]",
@@ -2555,7 +2555,7 @@
    "homepage": "",
    "pushed_at": "2026-09-13",
    "created_at": "2026-05-06",
-   "days_idle": 74,
+   "days_idle": 75,
    "readme_len": 8611,
    "releases": 1,
    "install": "npx korean-privacy-law-mcp",
@@ -2589,7 +2589,7 @@
    "homepage": "https://korean-bill-debate-mcp.vercel.app",
    "pushed_at": "2026-08-24",
    "created_at": "2026-07-12",
-   "days_idle": 94,
+   "days_idle": 95,
    "readme_len": 13403,
    "releases": 1,
    "install": "",
@@ -2623,7 +2623,7 @@
    "homepage": "",
    "pushed_at": "2026-09-19",
    "created_at": "2025-04-12",
-   "days_idle": 69,
+   "days_idle": 70,
    "readme_len": 22036,
    "releases": 1,
    "install": "",
@@ -2635,7 +2635,7 @@
     "trust": 5.0
    },
    "rank": 59,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -2657,7 +2657,7 @@
    "homepage": "",
    "pushed_at": "2026-11-21",
    "created_at": "2025-11-10",
-   "days_idle": 5,
+   "days_idle": 6,
    "readme_len": 8243,
    "releases": 0,
    "install": "",
@@ -2669,7 +2669,7 @@
     "trust": 0.0
    },
    "rank": 60,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -2701,7 +2701,7 @@
    "homepage": "https://www.nuget.org/packages/RedoxNet.Mcp.LsOpenApi/",
    "pushed_at": "2026-10-05",
    "created_at": "2026-05-13",
-   "days_idle": 52,
+   "days_idle": 53,
    "readme_len": 9886,
    "releases": 1,
    "install": "",
@@ -2713,7 +2713,7 @@
     "trust": 10.0
    },
    "rank": 61,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -2752,7 +2752,7 @@
    "homepage": "https://pypi.org/project/tossinvest-mcp/",
    "pushed_at": "2026-09-18",
    "created_at": "2026-06-02",
-   "days_idle": 69,
+   "days_idle": 70,
    "readme_len": 14303,
    "releases": 1,
    "install": "uvx tossinvest-mcp",
@@ -2764,7 +2764,7 @@
     "trust": 10.0
    },
    "rank": 62,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": null,
    "star_delta_days": null
@@ -2793,7 +2793,7 @@
    "homepage": "",
    "pushed_at": "2026-08-05",
    "created_at": "2026-07-19",
-   "days_idle": 113,
+   "days_idle": 114,
    "readme_len": 8547,
    "releases": 1,
    "install": "",
@@ -2805,7 +2805,7 @@
     "trust": 10.0
    },
    "rank": 63,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -2837,7 +2837,7 @@
    "homepage": "https://taxdoctorai.com/",
    "pushed_at": "2026-11-01",
    "created_at": "2026-08-30",
-   "days_idle": 25,
+   "days_idle": 26,
    "readme_len": 3935,
    "releases": 0,
    "install": "",
@@ -2849,54 +2849,10 @@
     "trust": 5.0
    },
    "rank": 64,
-   "rank_delta": 1,
+   "rank_delta": 0,
    "is_new": false,
    "star_delta": null,
    "star_delta_days": null
-  },
-  {
-   "repo": "minwoo19930301/korea-ecommerce-integrated-channel-mcp",
-   "desc": "여러 국내 판매처의 상품 등록·수정·판매중지·삭제를 한 번에 처리하는 MCP 서버",
-   "category": "🛒 Commerce & Retail",
-   "source": "발굴",
-   "name": "korea-ecommerce-integrated-channel-mcp",
-   "owner": "minwoo19930301",
-   "stars": 28,
-   "forks": 1,
-   "issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "topics": [
-    "11st",
-    "auction",
-    "coupang",
-    "ecommerce",
-    "gmarket",
-    "korea",
-    "mcp",
-    "seller-api",
-    "smartstore"
-   ],
-   "gh_desc": "여러 국내 판매처의 상품 등록·수정·판매중지·삭제를 한 번에 처리하는 MCP 서버",
-   "homepage": "",
-   "pushed_at": "2026-09-22",
-   "created_at": "2026-07-17",
-   "days_idle": 65,
-   "readme_len": 3150,
-   "releases": 0,
-   "install": "",
-   "score": {
-    "total": 53.6,
-    "popularity": 14.6,
-    "upkeep": 20.0,
-    "docs": 14.0,
-    "trust": 5.0
-   },
-   "rank": 65,
-   "rank_delta": 2,
-   "is_new": false,
-   "star_delta": 20,
-   "star_delta_days": 7
   },
   {
    "repo": "Mrbaeksang/korea-stock-analyzer-mcp",
@@ -2929,7 +2885,7 @@
    "homepage": "",
    "pushed_at": "2026-09-30",
    "created_at": "2025-09-03",
-   "days_idle": 57,
+   "days_idle": 58,
    "readme_len": 4475,
    "releases": 0,
    "install": "",
@@ -2940,8 +2896,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 66,
-   "rank_delta": 0,
+   "rank": 65,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -2963,7 +2919,7 @@
    "homepage": "",
    "pushed_at": "2026-11-17",
    "created_at": "2026-11-17",
-   "days_idle": 9,
+   "days_idle": 10,
    "readme_len": 2831,
    "releases": 1,
    "install": "",
@@ -2974,7 +2930,7 @@
     "docs": 8.0,
     "trust": 10.0
    },
-   "rank": 67,
+   "rank": 66,
    "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
@@ -2997,7 +2953,7 @@
    "homepage": "",
    "pushed_at": "2025-09-16",
    "created_at": "2025-08-28",
-   "days_idle": 436,
+   "days_idle": 437,
    "readme_len": 9359,
    "releases": 0,
    "install": "",
@@ -3008,10 +2964,10 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 68,
+   "rank": 67,
    "rank_delta": 1,
    "is_new": false,
-   "star_delta": 6,
+   "star_delta": 4,
    "star_delta_days": 7
   },
   {
@@ -3049,7 +3005,7 @@
    "homepage": "",
    "pushed_at": "2026-10-13",
    "created_at": "2026-05-04",
-   "days_idle": 44,
+   "days_idle": 45,
    "readme_len": 21381,
    "releases": 0,
    "install": "npx korean-dart-mcp",
@@ -3060,7 +3016,7 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 69,
+   "rank": 68,
    "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
@@ -3083,7 +3039,7 @@
    "homepage": "",
    "pushed_at": "2026-10-18",
    "created_at": "2026-10-18",
-   "days_idle": 39,
+   "days_idle": 40,
    "readme_len": 8570,
    "releases": 0,
    "install": "",
@@ -3094,7 +3050,7 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 70,
+   "rank": 69,
    "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
@@ -3138,7 +3094,7 @@
    "homepage": "https://koreanpulse.dev",
    "pushed_at": "2026-10-25",
    "created_at": "2026-05-05",
-   "days_idle": 32,
+   "days_idle": 33,
    "readme_len": 30615,
    "releases": 0,
    "install": "pip koreanpulse",
@@ -3149,7 +3105,7 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 71,
+   "rank": 70,
    "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
@@ -3172,7 +3128,7 @@
    "homepage": "",
    "pushed_at": "2026-11-26",
    "created_at": "2026-09-17",
-   "days_idle": 1,
+   "days_idle": 2,
    "readme_len": 6091,
    "releases": 0,
    "install": "",
@@ -3183,7 +3139,7 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 72,
+   "rank": 71,
    "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
@@ -3219,7 +3175,7 @@
    "homepage": "https://datawatongchal.com/mcp/docs",
    "pushed_at": "2026-11-25",
    "created_at": "2026-11-24",
-   "days_idle": 1,
+   "days_idle": 2,
    "readme_len": 7954,
    "releases": 0,
    "install": "",
@@ -3230,9 +3186,9 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 73,
-   "rank_delta": null,
-   "is_new": true,
+   "rank": 72,
+   "rank_delta": 1,
+   "is_new": false,
    "star_delta": null,
    "star_delta_days": null
   },
@@ -3258,7 +3214,7 @@
    "homepage": "",
    "pushed_at": "2026-05-02",
    "created_at": "2026-04-04",
-   "days_idle": 208,
+   "days_idle": 209,
    "readme_len": 18169,
    "releases": 0,
    "install": "npx assembly-api-mcp",
@@ -3269,8 +3225,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 74,
-   "rank_delta": 0,
+   "rank": 73,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -3302,7 +3258,7 @@
    "homepage": "https://zeikar.dev/projects/kimcp/",
    "pushed_at": "2026-10-22",
    "created_at": "2025-04-02",
-   "days_idle": 35,
+   "days_idle": 36,
    "readme_len": 3320,
    "releases": 0,
    "install": "",
@@ -3313,8 +3269,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 75,
-   "rank_delta": 0,
+   "rank": 74,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3345,7 +3301,7 @@
    "homepage": "",
    "pushed_at": "2026-09-04",
    "created_at": "2026-04-10",
-   "days_idle": 83,
+   "days_idle": 84,
    "readme_len": 9567,
    "releases": 0,
    "install": "",
@@ -3356,8 +3312,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 76,
-   "rank_delta": 0,
+   "rank": 75,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3379,7 +3335,7 @@
    "homepage": "",
    "pushed_at": "2026-09-03",
    "created_at": "2026-04-05",
-   "days_idle": 84,
+   "days_idle": 85,
    "readme_len": 9601,
    "releases": 0,
    "install": "",
@@ -3390,8 +3346,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 77,
-   "rank_delta": 0,
+   "rank": 76,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3420,7 +3376,7 @@
    "homepage": "",
    "pushed_at": "2026-08-27",
    "created_at": "2026-07-28",
-   "days_idle": 92,
+   "days_idle": 93,
    "readme_len": 9418,
    "releases": 0,
    "install": "npx korean-elementary-learning-map-mcp",
@@ -3431,8 +3387,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 78,
-   "rank_delta": 0,
+   "rank": 77,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3454,7 +3410,7 @@
    "homepage": "",
    "pushed_at": "2026-11-07",
    "created_at": "2026-05-08",
-   "days_idle": 19,
+   "days_idle": 20,
    "readme_len": 4227,
    "releases": 0,
    "install": "",
@@ -3465,8 +3421,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 79,
-   "rank_delta": 0,
+   "rank": 78,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3488,7 +3444,7 @@
    "homepage": "",
    "pushed_at": "2026-06-22",
    "created_at": "2025-10-06",
-   "days_idle": 157,
+   "days_idle": 158,
    "readme_len": 9247,
    "releases": 1,
    "install": "npx bible-ko-mcp",
@@ -3499,8 +3455,8 @@
     "docs": 20.0,
     "trust": 10.0
    },
-   "rank": 80,
-   "rank_delta": 0,
+   "rank": 79,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3533,8 +3489,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 81,
-   "rank_delta": 0,
+   "rank": 80,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3556,7 +3512,7 @@
    "homepage": "",
    "pushed_at": "2026-06-20",
    "created_at": "2026-06-02",
-   "days_idle": 159,
+   "days_idle": 160,
    "readme_len": 39770,
    "releases": 1,
    "install": "",
@@ -3567,8 +3523,8 @@
     "docs": 20.0,
     "trust": 10.0
    },
-   "rank": 82,
-   "rank_delta": 0,
+   "rank": 81,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3590,7 +3546,7 @@
    "homepage": "",
    "pushed_at": "2026-06-15",
    "created_at": "2025-04-11",
-   "days_idle": 164,
+   "days_idle": 165,
    "readme_len": 7551,
    "releases": 0,
    "install": "",
@@ -3601,8 +3557,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 83,
-   "rank_delta": 0,
+   "rank": 82,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3624,7 +3580,7 @@
    "homepage": "",
    "pushed_at": "2026-06-11",
    "created_at": "2026-04-27",
-   "days_idle": 168,
+   "days_idle": 169,
    "readme_len": 17826,
    "releases": 0,
    "install": "",
@@ -3635,8 +3591,8 @@
     "docs": 20.0,
     "trust": 0.0
    },
-   "rank": 84,
-   "rank_delta": 0,
+   "rank": 83,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -3667,7 +3623,7 @@
    "homepage": "https://human-proofreader-mcp.toy.x.upstage.ai",
    "pushed_at": "2026-10-27",
    "created_at": "2026-08-23",
-   "days_idle": 31,
+   "days_idle": 32,
    "readme_len": 6191,
    "releases": 0,
    "install": "",
@@ -3678,8 +3634,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 85,
-   "rank_delta": -26,
+   "rank": 84,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3720,7 +3676,7 @@
    "homepage": "https://jeongseongmok.github.io/tossinvest-openapi-mcp/",
    "pushed_at": "2026-09-28",
    "created_at": "2026-06-04",
-   "days_idle": 59,
+   "days_idle": 60,
    "readme_len": 4294,
    "releases": 0,
    "install": "npx tossinvest-openapi-mcp",
@@ -3731,8 +3687,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 86,
-   "rank_delta": -1,
+   "rank": 85,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3765,7 +3721,7 @@
    "homepage": "",
    "pushed_at": "2026-04-16",
    "created_at": "2026-04-08",
-   "days_idle": 224,
+   "days_idle": 225,
    "readme_len": 14080,
    "releases": 1,
    "install": "",
@@ -3776,8 +3732,8 @@
     "docs": 20.0,
     "trust": 10.0
    },
-   "rank": 87,
-   "rank_delta": -1,
+   "rank": 86,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -3799,7 +3755,7 @@
    "homepage": "",
    "pushed_at": "2026-09-17",
    "created_at": "2026-04-28",
-   "days_idle": 71,
+   "days_idle": 72,
    "readme_len": 3324,
    "releases": 0,
    "install": "",
@@ -3810,8 +3766,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 88,
-   "rank_delta": -1,
+   "rank": 87,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3840,7 +3796,7 @@
    "homepage": "https://mcp.ezrnd.co.kr",
    "pushed_at": "2026-09-11",
    "created_at": "2025-07-25",
-   "days_idle": 76,
+   "days_idle": 77,
    "readme_len": 1913,
    "releases": 0,
    "install": "",
@@ -3851,8 +3807,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 89,
-   "rank_delta": -1,
+   "rank": 88,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3879,7 +3835,7 @@
    "homepage": "",
    "pushed_at": "2026-09-28",
    "created_at": "2026-01-14",
-   "days_idle": 59,
+   "days_idle": 60,
    "readme_len": 3474,
    "releases": 0,
    "install": "",
@@ -3890,8 +3846,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 90,
-   "rank_delta": -1,
+   "rank": 89,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": null,
    "star_delta_days": null
@@ -3928,7 +3884,7 @@
    "homepage": "",
    "pushed_at": "2026-02-19",
    "created_at": "2026-02-18",
-   "days_idle": 281,
+   "days_idle": 282,
    "readme_len": 9633,
    "releases": 0,
    "install": "",
@@ -3939,8 +3895,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 91,
-   "rank_delta": -1,
+   "rank": 90,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -3980,7 +3936,7 @@
    "homepage": "",
    "pushed_at": "2026-06-16",
    "created_at": "2026-06-16",
-   "days_idle": 163,
+   "days_idle": 164,
    "readme_len": 22756,
    "releases": 0,
    "install": "",
@@ -3991,8 +3947,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 92,
-   "rank_delta": -1,
+   "rank": 91,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4025,7 +3981,7 @@
    "homepage": "https://www.npmjs.com/package/@soehd0889/tossinvest-mcp",
    "pushed_at": "2026-09-01",
    "created_at": "2026-08-12",
-   "days_idle": 86,
+   "days_idle": 87,
    "readme_len": 2813,
    "releases": 1,
    "install": "",
@@ -4036,8 +3992,8 @@
     "docs": 8.0,
     "trust": 10.0
    },
-   "rank": 93,
-   "rank_delta": -1,
+   "rank": 92,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": null,
    "star_delta_days": null
@@ -4059,7 +4015,7 @@
    "homepage": "",
    "pushed_at": "2026-04-21",
    "created_at": "2026-04-19",
-   "days_idle": 219,
+   "days_idle": 220,
    "readme_len": 4764,
    "releases": 1,
    "install": "",
@@ -4070,8 +4026,8 @@
     "docs": 14.0,
     "trust": 10.0
    },
-   "rank": 94,
-   "rank_delta": -1,
+   "rank": 93,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4093,7 +4049,7 @@
    "homepage": "",
    "pushed_at": "2026-07-09",
    "created_at": "2026-07-01",
-   "days_idle": 141,
+   "days_idle": 142,
    "readme_len": 35803,
    "releases": 0,
    "install": "",
@@ -4104,8 +4060,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 95,
-   "rank_delta": -1,
+   "rank": 94,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4127,7 +4083,7 @@
    "homepage": "https://www.fastcampus.co.kr/data_online_mcpa2a",
    "pushed_at": "2025-12-26",
    "created_at": "2025-08-23",
-   "days_idle": 336,
+   "days_idle": 337,
    "readme_len": 9541,
    "releases": 0,
    "install": "",
@@ -4138,8 +4094,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 96,
-   "rank_delta": -1,
+   "rank": 95,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4161,7 +4117,7 @@
    "homepage": "",
    "pushed_at": "2026-04-28",
    "created_at": "2025-07-22",
-   "days_idle": 212,
+   "days_idle": 213,
    "readme_len": 18189,
    "releases": 0,
    "install": "",
@@ -4172,8 +4128,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 97,
-   "rank_delta": -1,
+   "rank": 96,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4195,7 +4151,7 @@
    "homepage": "",
    "pushed_at": "2025-08-12",
    "created_at": "2025-04-11",
-   "days_idle": 471,
+   "days_idle": 472,
    "readme_len": 14535,
    "releases": 1,
    "install": "docker",
@@ -4206,8 +4162,8 @@
     "docs": 20.0,
     "trust": 10.0
    },
-   "rank": 98,
-   "rank_delta": -1,
+   "rank": 97,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4229,7 +4185,7 @@
    "homepage": "",
    "pushed_at": "2026-04-03",
    "created_at": "2026-04-03",
-   "days_idle": 238,
+   "days_idle": 239,
    "readme_len": 9685,
    "releases": 0,
    "install": "",
@@ -4240,8 +4196,8 @@
     "docs": 20.0,
     "trust": 0.0
    },
-   "rank": 99,
-   "rank_delta": -1,
+   "rank": 98,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4275,7 +4231,7 @@
    "homepage": "",
    "pushed_at": "2026-09-30",
    "created_at": "2026-08-19",
-   "days_idle": 57,
+   "days_idle": 58,
    "readme_len": 2665,
    "releases": 0,
    "install": "",
@@ -4286,8 +4242,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 100,
-   "rank_delta": -1,
+   "rank": 99,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4318,7 +4274,7 @@
    "homepage": "",
    "pushed_at": "2026-09-01",
    "created_at": "2025-08-22",
-   "days_idle": 86,
+   "days_idle": 87,
    "readme_len": 3476,
    "releases": 0,
    "install": "docker",
@@ -4329,8 +4285,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 101,
-   "rank_delta": -1,
+   "rank": 100,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4352,7 +4308,7 @@
    "homepage": "",
    "pushed_at": "2026-01-20",
    "created_at": "2025-11-17",
-   "days_idle": 310,
+   "days_idle": 311,
    "readme_len": 6170,
    "releases": 0,
    "install": "docker",
@@ -4363,8 +4319,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 102,
-   "rank_delta": -1,
+   "rank": 101,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4392,7 +4348,7 @@
    "homepage": "https://github.com/seo-jinseok/korean-law-mcp",
    "pushed_at": "2025-12-26",
    "created_at": "2025-12-12",
-   "days_idle": 335,
+   "days_idle": 336,
    "readme_len": 5060,
    "releases": 1,
    "install": "pip korean-law-mcp",
@@ -4403,8 +4359,8 @@
     "docs": 14.0,
     "trust": 10.0
    },
-   "rank": 103,
-   "rank_delta": -1,
+   "rank": 102,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4426,7 +4382,7 @@
    "homepage": "",
    "pushed_at": "2026-08-23",
    "created_at": "2026-08-23",
-   "days_idle": 95,
+   "days_idle": 96,
    "readme_len": 9906,
    "releases": 0,
    "install": "",
@@ -4437,8 +4393,8 @@
     "docs": 20.0,
     "trust": 0.0
    },
-   "rank": 104,
-   "rank_delta": -1,
+   "rank": 103,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4460,7 +4416,7 @@
    "homepage": "",
    "pushed_at": "2025-12-18",
    "created_at": "2025-12-12",
-   "days_idle": 343,
+   "days_idle": 344,
    "readme_len": 16083,
    "releases": 0,
    "install": "",
@@ -4471,8 +4427,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 105,
-   "rank_delta": -1,
+   "rank": 104,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4516,8 +4472,8 @@
     "docs": 8.0,
     "trust": 10.0
    },
-   "rank": 106,
-   "rank_delta": -1,
+   "rank": 105,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4539,7 +4495,7 @@
    "homepage": "",
    "pushed_at": "2026-08-11",
    "created_at": "2026-08-07",
-   "days_idle": 107,
+   "days_idle": 108,
    "readme_len": 4506,
    "releases": 0,
    "install": "npx korea-university-mcp",
@@ -4550,8 +4506,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 107,
-   "rank_delta": -1,
+   "rank": 106,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4573,7 +4529,7 @@
    "homepage": "",
    "pushed_at": "2026-07-27",
    "created_at": "2026-06-23",
-   "days_idle": 122,
+   "days_idle": 123,
    "readme_len": 5191,
    "releases": 0,
    "install": "",
@@ -4584,8 +4540,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 108,
-   "rank_delta": -1,
+   "rank": 107,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4617,7 +4573,7 @@
    "homepage": "",
    "pushed_at": "2026-06-22",
    "created_at": "2026-06-22",
-   "days_idle": 157,
+   "days_idle": 158,
    "readme_len": 4411,
    "releases": 0,
    "install": "",
@@ -4628,8 +4584,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 109,
-   "rank_delta": -1,
+   "rank": 108,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4658,7 +4614,7 @@
    "homepage": "",
    "pushed_at": "2026-06-23",
    "created_at": "2026-06-22",
-   "days_idle": 157,
+   "days_idle": 158,
    "readme_len": 7670,
    "releases": 0,
    "install": "",
@@ -4669,8 +4625,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 110,
-   "rank_delta": -1,
+   "rank": 109,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4692,7 +4648,7 @@
    "homepage": "https://korea-onegov-mcp.vercel.app",
    "pushed_at": "2026-07-27",
    "created_at": "2026-07-27",
-   "days_idle": 122,
+   "days_idle": 123,
    "readme_len": 5492,
    "releases": 0,
    "install": "",
@@ -4703,8 +4659,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 111,
-   "rank_delta": -1,
+   "rank": 110,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4726,7 +4682,7 @@
    "homepage": "",
    "pushed_at": "2026-02-01",
    "created_at": "2026-01-26",
-   "days_idle": 299,
+   "days_idle": 300,
    "readme_len": 4660,
    "releases": 1,
    "install": "",
@@ -4737,8 +4693,8 @@
     "docs": 14.0,
     "trust": 10.0
    },
-   "rank": 112,
-   "rank_delta": -1,
+   "rank": 111,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4760,7 +4716,7 @@
    "homepage": "",
    "pushed_at": "2026-05-16",
    "created_at": "2026-04-23",
-   "days_idle": 194,
+   "days_idle": 195,
    "readme_len": 9050,
    "releases": 0,
    "install": "",
@@ -4771,8 +4727,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 113,
-   "rank_delta": -1,
+   "rank": 112,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4794,7 +4750,7 @@
    "homepage": "",
    "pushed_at": "2026-05-17",
    "created_at": "2026-05-16",
-   "days_idle": 193,
+   "days_idle": 194,
    "readme_len": 7786,
    "releases": 1,
    "install": "docker",
@@ -4805,8 +4761,8 @@
     "docs": 14.0,
     "trust": 10.0
    },
-   "rank": 114,
-   "rank_delta": -1,
+   "rank": 113,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4832,7 +4788,7 @@
    "homepage": "https://jsr.io/@hongminhee/ko-stdict-mcp",
    "pushed_at": "2026-03-29",
    "created_at": "2026-03-29",
-   "days_idle": 242,
+   "days_idle": 243,
    "readme_len": 2015,
    "releases": 0,
    "install": "",
@@ -4843,8 +4799,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 115,
-   "rank_delta": -1,
+   "rank": 114,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4866,7 +4822,7 @@
    "homepage": "",
    "pushed_at": "2025-04-03",
    "created_at": "2025-04-03",
-   "days_idle": 602,
+   "days_idle": 603,
    "readme_len": 6939,
    "releases": 0,
    "install": "",
@@ -4877,8 +4833,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 116,
-   "rank_delta": -1,
+   "rank": 115,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4910,7 +4866,7 @@
    "homepage": "",
    "pushed_at": "2026-02-09",
    "created_at": "2025-09-11",
-   "days_idle": 290,
+   "days_idle": 291,
    "readme_len": 4711,
    "releases": 0,
    "install": "docker",
@@ -4921,8 +4877,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 117,
-   "rank_delta": -1,
+   "rank": 116,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4944,7 +4900,7 @@
    "homepage": "",
    "pushed_at": "2026-04-23",
    "created_at": "2026-04-22",
-   "days_idle": 217,
+   "days_idle": 218,
    "readme_len": 4166,
    "releases": 0,
    "install": "",
@@ -4955,8 +4911,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 118,
-   "rank_delta": -1,
+   "rank": 117,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -4985,7 +4941,7 @@
    "homepage": "",
    "pushed_at": "2026-03-06",
    "created_at": "2026-03-06",
-   "days_idle": 265,
+   "days_idle": 266,
    "readme_len": 3306,
    "releases": 0,
    "install": "",
@@ -4996,8 +4952,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 119,
-   "rank_delta": -1,
+   "rank": 118,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5019,7 +4975,7 @@
    "homepage": "",
    "pushed_at": "2026-03-24",
    "created_at": "2025-08-17",
-   "days_idle": 247,
+   "days_idle": 248,
    "readme_len": 4855,
    "releases": 0,
    "install": "",
@@ -5030,8 +4986,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 120,
-   "rank_delta": -1,
+   "rank": 119,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5053,7 +5009,7 @@
    "homepage": "",
    "pushed_at": "2026-02-26",
    "created_at": "2025-06-13",
-   "days_idle": 273,
+   "days_idle": 274,
    "readme_len": 21446,
    "releases": 0,
    "install": "",
@@ -5064,8 +5020,8 @@
     "docs": 20.0,
     "trust": 5.0
    },
-   "rank": 121,
-   "rank_delta": -1,
+   "rank": 120,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5087,7 +5043,7 @@
    "homepage": "",
    "pushed_at": "2025-12-05",
    "created_at": "2025-12-03",
-   "days_idle": 356,
+   "days_idle": 357,
    "readme_len": 6235,
    "releases": 0,
    "install": "npx @flor3z-github/navermap-mcp-server",
@@ -5098,8 +5054,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 122,
-   "rank_delta": -1,
+   "rank": 121,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5121,7 +5077,7 @@
    "homepage": "",
    "pushed_at": "2025-12-16",
    "created_at": "2025-12-16",
-   "days_idle": 345,
+   "days_idle": 346,
    "readme_len": 4857,
    "releases": 0,
    "install": "",
@@ -5132,8 +5088,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 123,
-   "rank_delta": -1,
+   "rank": 122,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5155,7 +5111,7 @@
    "homepage": "",
    "pushed_at": "2026-04-03",
    "created_at": "2026-04-03",
-   "days_idle": 237,
+   "days_idle": 238,
    "readme_len": 3899,
    "releases": 0,
    "install": "",
@@ -5166,8 +5122,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 124,
-   "rank_delta": -1,
+   "rank": 123,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5189,7 +5145,7 @@
    "homepage": "",
    "pushed_at": "2025-06-22",
    "created_at": "2025-05-20",
-   "days_idle": 522,
+   "days_idle": 523,
    "readme_len": 3884,
    "releases": 0,
    "install": "",
@@ -5200,8 +5156,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 125,
-   "rank_delta": -1,
+   "rank": 124,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 1,
    "star_delta_days": 7
@@ -5223,7 +5179,7 @@
    "homepage": "https://vivory.app",
    "pushed_at": "2026-10-22",
    "created_at": "2026-04-28",
-   "days_idle": 35,
+   "days_idle": 36,
    "readme_len": 1386,
    "releases": 0,
    "install": "",
@@ -5234,8 +5190,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 126,
-   "rank_delta": -1,
+   "rank": 125,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5257,7 +5213,7 @@
    "homepage": "",
    "pushed_at": "2025-07-07",
    "created_at": "2025-07-07",
-   "days_idle": 507,
+   "days_idle": 508,
    "readme_len": 2820,
    "releases": 1,
    "install": "",
@@ -5268,8 +5224,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 127,
-   "rank_delta": -1,
+   "rank": 126,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5291,7 +5247,7 @@
    "homepage": "",
    "pushed_at": "2025-08-27",
    "created_at": "2025-08-26",
-   "days_idle": 456,
+   "days_idle": 457,
    "readme_len": 4228,
    "releases": 0,
    "install": "",
@@ -5302,8 +5258,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 128,
-   "rank_delta": -1,
+   "rank": 127,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5328,7 +5284,7 @@
    "homepage": "https://mcp.so/server/mcp-korean-spell/winterjung",
    "pushed_at": "2025-04-15",
    "created_at": "2025-04-06",
-   "days_idle": 590,
+   "days_idle": 591,
    "readme_len": 1276,
    "releases": 0,
    "install": "",
@@ -5339,8 +5295,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 129,
-   "rank_delta": -1,
+   "rank": 128,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5362,7 +5318,7 @@
    "homepage": "",
    "pushed_at": "2025-09-08",
    "created_at": "2025-07-25",
-   "days_idle": 444,
+   "days_idle": 445,
    "readme_len": 7779,
    "releases": 0,
    "install": "",
@@ -5373,8 +5329,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 130,
-   "rank_delta": -1,
+   "rank": 129,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5399,7 +5355,7 @@
    "homepage": "https://smithery.ai/server/@cgoinglove/mcp-server-kakao-map",
    "pushed_at": "2025-04-04",
    "created_at": "2025-03-31",
-   "days_idle": 601,
+   "days_idle": 602,
    "readme_len": 1021,
    "releases": 0,
    "install": "",
@@ -5410,8 +5366,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 131,
-   "rank_delta": -1,
+   "rank": 130,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5447,7 +5403,7 @@
    "homepage": "https://dartpoint.ai",
    "pushed_at": "2025-06-25",
    "created_at": "2025-06-11",
-   "days_idle": 519,
+   "days_idle": 520,
    "readme_len": 3442,
    "releases": 0,
    "install": "",
@@ -5458,8 +5414,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 132,
-   "rank_delta": -1,
+   "rank": 131,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5481,7 +5437,7 @@
    "homepage": "",
    "pushed_at": "2025-07-07",
    "created_at": "2025-04-15",
-   "days_idle": 507,
+   "days_idle": 508,
    "readme_len": 2643,
    "releases": 0,
    "install": "",
@@ -5492,8 +5448,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 133,
-   "rank_delta": -1,
+   "rank": 132,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5515,7 +5471,7 @@
    "homepage": "",
    "pushed_at": "2026-02-22",
    "created_at": "2025-04-07",
-   "days_idle": 278,
+   "days_idle": 279,
    "readme_len": 2981,
    "releases": 0,
    "install": "",
@@ -5526,8 +5482,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 134,
-   "rank_delta": -1,
+   "rank": 133,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5560,7 +5516,7 @@
    "homepage": "",
    "pushed_at": "2026-01-11",
    "created_at": "2026-01-11",
-   "days_idle": 319,
+   "days_idle": 320,
    "readme_len": 2987,
    "releases": 0,
    "install": "",
@@ -5571,8 +5527,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 135,
-   "rank_delta": -1,
+   "rank": 134,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5594,7 +5550,7 @@
    "homepage": "",
    "pushed_at": "2026-05-13",
    "created_at": "2026-05-04",
-   "days_idle": 197,
+   "days_idle": 198,
    "readme_len": 5039,
    "releases": 0,
    "install": "",
@@ -5605,8 +5561,8 @@
     "docs": 14.0,
     "trust": 5.0
    },
-   "rank": 136,
-   "rank_delta": -1,
+   "rank": 135,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5628,7 +5584,7 @@
    "homepage": "",
    "pushed_at": "2025-09-14",
    "created_at": "2025-04-05",
-   "days_idle": 438,
+   "days_idle": 439,
    "readme_len": 1384,
    "releases": 0,
    "install": "",
@@ -5639,8 +5595,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 137,
-   "rank_delta": -1,
+   "rank": 136,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5666,7 +5622,7 @@
    "homepage": "",
    "pushed_at": "2025-06-22",
    "created_at": "2025-04-27",
-   "days_idle": 523,
+   "days_idle": 524,
    "readme_len": 1909,
    "releases": 1,
    "install": "",
@@ -5677,8 +5633,8 @@
     "docs": 8.0,
     "trust": 10.0
    },
-   "rank": 138,
-   "rank_delta": -1,
+   "rank": 137,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5700,7 +5656,7 @@
    "homepage": "",
    "pushed_at": "2026-04-06",
    "created_at": "2026-04-06",
-   "days_idle": 234,
+   "days_idle": 235,
    "readme_len": 2821,
    "releases": 0,
    "install": "npx korean-university-regulation-mcp",
@@ -5711,8 +5667,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 139,
-   "rank_delta": -1,
+   "rank": 138,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5736,7 +5692,7 @@
    "homepage": "",
    "pushed_at": "2025-08-02",
    "created_at": "2025-07-20",
-   "days_idle": 481,
+   "days_idle": 482,
    "readme_len": 7655,
    "releases": 0,
    "install": "npx k-mfds-fooddb-mcp-server",
@@ -5747,8 +5703,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 140,
-   "rank_delta": -1,
+   "rank": 139,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5770,7 +5726,7 @@
    "homepage": "",
    "pushed_at": "2025-05-06",
    "created_at": "2025-04-29",
-   "days_idle": 569,
+   "days_idle": 570,
    "readme_len": 7350,
    "releases": 0,
    "install": "docker",
@@ -5781,8 +5737,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 141,
-   "rank_delta": -1,
+   "rank": 140,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5804,7 +5760,7 @@
    "homepage": "",
    "pushed_at": "2026-05-17",
    "created_at": "2026-04-27",
-   "days_idle": 193,
+   "days_idle": 194,
    "readme_len": 4316,
    "releases": 0,
    "install": "",
@@ -5815,8 +5771,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 142,
-   "rank_delta": -1,
+   "rank": 141,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5838,7 +5794,7 @@
    "homepage": "",
    "pushed_at": "2025-05-12",
    "created_at": "2025-05-03",
-   "days_idle": 563,
+   "days_idle": 564,
    "readme_len": 2147,
    "releases": 0,
    "install": "",
@@ -5849,8 +5805,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 143,
-   "rank_delta": -1,
+   "rank": 142,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5872,7 +5828,7 @@
    "homepage": "",
    "pushed_at": "2025-05-07",
    "created_at": "2025-04-23",
-   "days_idle": 568,
+   "days_idle": 569,
    "readme_len": 1527,
    "releases": 0,
    "install": "",
@@ -5883,8 +5839,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 144,
-   "rank_delta": -1,
+   "rank": 143,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5917,7 +5873,7 @@
    "homepage": "",
    "pushed_at": "2026-04-20",
    "created_at": "2026-04-20",
-   "days_idle": 220,
+   "days_idle": 221,
    "readme_len": 939,
    "releases": 0,
    "install": "",
@@ -5928,8 +5884,8 @@
     "docs": 3.0,
     "trust": 5.0
    },
-   "rank": 145,
-   "rank_delta": -1,
+   "rank": 144,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5951,7 +5907,7 @@
    "homepage": "",
    "pushed_at": "2026-03-12",
    "created_at": "2026-01-22",
-   "days_idle": 259,
+   "days_idle": 260,
    "readme_len": 2341,
    "releases": 0,
    "install": "",
@@ -5962,8 +5918,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 146,
-   "rank_delta": -1,
+   "rank": 145,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -5985,7 +5941,7 @@
    "homepage": "",
    "pushed_at": "2025-04-09",
    "created_at": "2025-04-08",
-   "days_idle": 597,
+   "days_idle": 598,
    "readme_len": 2154,
    "releases": 0,
    "install": "",
@@ -5996,8 +5952,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 147,
-   "rank_delta": -1,
+   "rank": 146,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6019,7 +5975,7 @@
    "homepage": "",
    "pushed_at": "2025-08-02",
    "created_at": "2025-08-02",
-   "days_idle": 481,
+   "days_idle": 482,
    "readme_len": 5785,
    "releases": 0,
    "install": "npx k-targo-subway-mcp-server",
@@ -6030,8 +5986,8 @@
     "docs": 14.0,
     "trust": 0.0
    },
-   "rank": 148,
-   "rank_delta": -1,
+   "rank": 147,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6053,7 +6009,7 @@
    "homepage": "",
    "pushed_at": "2026-06-05",
    "created_at": "2025-11-07",
-   "days_idle": 174,
+   "days_idle": 175,
    "readme_len": 0,
    "releases": 0,
    "install": "",
@@ -6064,8 +6020,8 @@
     "docs": 0.0,
     "trust": 0.0
    },
-   "rank": 149,
-   "rank_delta": -1,
+   "rank": 148,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6087,7 +6043,7 @@
    "homepage": "",
    "pushed_at": "2025-04-03",
    "created_at": "2025-04-03",
-   "days_idle": 602,
+   "days_idle": 603,
    "readme_len": 1205,
    "releases": 0,
    "install": "",
@@ -6098,8 +6054,8 @@
     "docs": 8.0,
     "trust": 5.0
    },
-   "rank": 150,
-   "rank_delta": -1,
+   "rank": 149,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6121,7 +6077,7 @@
    "homepage": "",
    "pushed_at": "2026-04-14",
    "created_at": "2025-07-20",
-   "days_idle": 226,
+   "days_idle": 227,
    "readme_len": 1117,
    "releases": 0,
    "install": "",
@@ -6132,8 +6088,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 151,
-   "rank_delta": -1,
+   "rank": 150,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6155,7 +6111,7 @@
    "homepage": "",
    "pushed_at": "2025-04-05",
    "created_at": "2025-04-05",
-   "days_idle": 600,
+   "days_idle": 601,
    "readme_len": 2469,
    "releases": 0,
    "install": "",
@@ -6166,8 +6122,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 152,
-   "rank_delta": -1,
+   "rank": 151,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6189,7 +6145,7 @@
    "homepage": "",
    "pushed_at": "2026-02-09",
    "created_at": "2026-01-24",
-   "days_idle": 290,
+   "days_idle": 291,
    "readme_len": 2190,
    "releases": 0,
    "install": "pip dooray-mcp",
@@ -6200,8 +6156,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 153,
-   "rank_delta": -1,
+   "rank": 152,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6223,7 +6179,7 @@
    "homepage": "",
    "pushed_at": "2025-04-16",
    "created_at": "2025-03-28",
-   "days_idle": 589,
+   "days_idle": 590,
    "readme_len": 1191,
    "releases": 0,
    "install": "",
@@ -6234,8 +6190,8 @@
     "docs": 8.0,
     "trust": 0.0
    },
-   "rank": 154,
-   "rank_delta": -1,
+   "rank": 153,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6257,7 +6213,7 @@
    "homepage": "",
    "pushed_at": "2025-04-10",
    "created_at": "2025-04-09",
-   "days_idle": 596,
+   "days_idle": 597,
    "readme_len": 764,
    "releases": 0,
    "install": "",
@@ -6268,8 +6224,8 @@
     "docs": 3.0,
     "trust": 0.0
    },
-   "rank": 155,
-   "rank_delta": -1,
+   "rank": 154,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6291,7 +6247,7 @@
    "homepage": "",
    "pushed_at": "2025-06-19",
    "created_at": "2025-06-19",
-   "days_idle": 525,
+   "days_idle": 526,
    "readme_len": 735,
    "releases": 0,
    "install": "",
@@ -6302,8 +6258,8 @@
     "docs": 3.0,
     "trust": 0.0
    },
-   "rank": 156,
-   "rank_delta": -1,
+   "rank": 155,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
@@ -6325,7 +6281,7 @@
    "homepage": "",
    "pushed_at": "2025-04-22",
    "created_at": "2025-04-22",
-   "days_idle": 583,
+   "days_idle": 584,
    "readme_len": 856,
    "releases": 0,
    "install": "",
@@ -6336,8 +6292,8 @@
     "docs": 3.0,
     "trust": 0.0
    },
-   "rank": 157,
-   "rank_delta": -1,
+   "rank": 156,
+   "rank_delta": 1,
    "is_new": false,
    "star_delta": 0,
    "star_delta_days": 7
